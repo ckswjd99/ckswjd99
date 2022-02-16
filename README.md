@@ -31,7 +31,7 @@
   <li><strong>Minister of National Defense Award</strong> @ <a href="https://osam.kr/hackathon/awards?m=v&wdnId=11">Online Hackathon (2020)</a> from Open Source Academy for Military.</li>
   <li><strong>Outsourcing</strong> @ KST Mobility - worked as back-end engineer, developing application <a href="https://play.google.com/store/apps/details?id=com.greegoing.greego&hl=ko&gl=US">GreeGo</a>.</li>
   <li><strong>Intern</strong> @ <a href="https://zalacompany.com/home">ZalaCompany</a> - advancing algorithm for rating live chat data.</li>
-  <li><strong>Crowdfunding</strong> @ <a href="https://tumblbug.com/loveplanet">Movie LovePlanet</a> - worked as minor actor, reward website devleoper.</li>
+  <li><strong>Crowdfunding</strong> @ <a href="https://tumblbug.com/loveplanet">Movie LovePlanet</a> - worked as website devleoper, minor actor.</li>
 </ul>
 
 <h1>Now Into...</h1>
