@@ -23,7 +23,7 @@
 <ul>
   <li><strong>Undergraduate Student</strong> @ Seoul National University, Electronical and Computer Engineering. (Senior in 2022)</li>
   <li><strong>Minister of National Defense Award</strong> @ <a href="https://osam.kr/hackathon/awards?m=v&wdnId=11">Online Hackathon (2020)</a> from Open Source Academy for Military.</li>
-  <li><strong>Outsourcing</strong> @ KST Mobility - worked as back-end engineer, developing application GreeGo.</li>
+  <li><strong>Outsourcing</strong> @ KST Mobility - worked as back-end engineer, developing application <a href="https://play.google.com/store/apps/details?id=com.greegoing.greego&hl=ko&gl=US">GreeGo</a>.</li>
   <li><strong>Intern</strong> @ <a href="https://zalacompany.com/home">ZalaCompany</a> - advancing algorithm for rating live chat data.</li>
 </ul>
 
