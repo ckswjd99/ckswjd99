@@ -28,10 +28,11 @@
 
 <ul>
   <li><strong>Undergraduate Student</strong> @ Seoul National University, Electronical and Computer Engineering. (Senior in 2022)</li>
-  <li><strong>Minister of National Defense Award</strong> @ <a href="https://osam.kr/hackathon/awards?m=v&wdnId=11">Online Hackathon (2020)</a> from Open Source Academy for Military.</li>
-  <li><strong>Outsourcing</strong> @ KST Mobility - worked as back-end engineer, developing application <a href="https://play.google.com/store/apps/details?id=com.greegoing.greego&hl=ko&gl=US">GreeGo</a>.</li>
-  <li><strong>Intern</strong> @ <a href="https://zalacompany.com/home">ZalaCompany</a> - advancing algorithm for rating live chat data.</li>
-  <li><strong>Crowdfunding</strong> @ <a href="https://tumblbug.com/loveplanet">Movie LovePlanet</a> - worked as website devleoper, minor actor.</li>
+  <li><strong>Minister of National Defense Award</strong> @ <a href="https://osam.kr/hackathon/awards?m=v&wdnId=11">Online Hackathon</a> from Open Source Academy for Military. (20/6~11)
+  </li>
+  <li><strong>Outsourcing</strong> @ KST Mobility - worked as back-end engineer, developing application <a href="https://play.google.com/store/apps/details?id=com.greegoing.greego&hl=ko&gl=US">GreeGo</a>. (20/12~21/2)</li>
+  <li><strong>Intern</strong> @ <a href="https://zalacompany.com/home">ZalaCompany</a> - advancing algorithm for rating live chat data. (21/7~9)</li>
+  <li><strong>Crowdfunding</strong> @ <a href="https://tumblbug.com/loveplanet">Movie LovePlanet</a> - worked as website devleoper, minor actor. (21/10~22/2)</li>
 </ul>
 
 <h1>Now Into...</h1>
