@@ -39,5 +39,6 @@
 <h1>Now Into...</h1>
 
 <ul>
-  <li><a href="https://github.com/ckswjd99/HTPL"><strong>HTPL</strong></a> - esoteric language that aims to make all HTML documents HTPL programs.</li>
+  <li>Customizing <a href="https://github.com/googleprojectzero/domato"><strong>Domato</strong></a> - as a graduation project.</li>
+  <li>Building <a href="https://5iq.cc"><strong>Portfolio Page</strong></a> with React</li>
 </ul>
