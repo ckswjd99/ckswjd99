@@ -33,7 +33,7 @@
   <li><strong>Outsourcing</strong> @ KST Mobility - worked as back-end engineer, developing application <a href="https://play.google.com/store/apps/details?id=com.greegoing.greego&hl=ko&gl=US">GreeGo</a>. (20/12~21/2)</li>
   <li><strong>Intern</strong> @ <a href="https://zalacompany.com/home">ZalaCompany</a> - advancing algorithm for rating live chat data. (21/7~9)</li>
   <li><strong>Crowdfunding</strong> @ <a href="https://tumblbug.com/loveplanet">Movie LovePlanet</a> - worked as website devleoper, minor actor. (21/10~22/2)</li>
-  <li><strong>Back-end Engineer</strong> @ <a href="https://nursevillage.com">NurseVillage</a> - startup team making community for nurses. (22/01~22/03) </li>
+  <li><strong>Back-end Engineer</strong> @ <a href="https://nursevillage.com">NurseVillage</a> - startup team making community for nurses. (22/01~) </li>
 </ul>
 
 <h1>Now Into...</h1>
