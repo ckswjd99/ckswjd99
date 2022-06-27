@@ -36,6 +36,9 @@
   <li><strong>Back-end Engineer</strong> @ <a href="https://nursevillage.com">NurseVillage</a> - startup team making community for nurses. (22/01~) </li>
 </ul>
 
+<h1>@SNU</h1>
+<p>I've been studying hard in Seoul National University, and there are <a href="https://github.com/ckswjd99-at-snu"><strong>some proud results</strong></a> of classes.</p>
+
 <h1>Now Into...</h1>
 
 <ul>
