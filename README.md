@@ -37,7 +37,7 @@
 </ul>
 
 <h1>@SNU</h1>
-<p>I've been studying hard in Seoul National University, and there are <a href="https://github.com/ckswjd99-at-snu"><strong>some proud results</strong></a> of classes.</p>
+<p>I've been studying hard in Seoul National University, and there are <a href="https://github.com/ckswjd99-at-snu"><strong>some results</strong></a> of classes.</p>
 
 <h1>Now Into...</h1>
 
