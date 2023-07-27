@@ -34,7 +34,8 @@
   <li><strong>Intern</strong> @ <a href="https://zalacompany.com/home">ZalaCompany</a> - advancing algorithm for rating live chat data. (21/7~9)</li>
   <li><strong>Crowdfunding</strong> @ <a href="https://tumblbug.com/loveplanet">Movie LovePlanet</a> - worked as website devleoper, minor actor. (21/10~22/2)</li>
   <li><strong>Back-end Engineer</strong> @ <a href="https://nursevillage.com">NurseVillage</a> - startup team making community for nurses. (22/1~6) </li>
-  <li><strong>Research Intern</strong> @ <a href="https://nxc.snu.ac.kr/">NXC</a> - Networked Computing and ML Lab in SNU. (22/7~) </li>
+  <li><strong>Research Intern</strong> @ <a href="https://nxc.snu.ac.kr/">NXC</a> - Networked Computing and ML Lab in SNU. (22/7~23/8) </li>
+  <li><strong>Graduate Student</strong> @ <a href="https://nxc.snu.ac.kr/">NXC</a> - Networked Computing and ML Lab in SNU. (23/9~) </li>
 </ul>
 
 <h1>@SNU</h1>
