@@ -44,6 +44,5 @@
 <h1>Now Into...</h1>
 
 <ul>
-  <li>Devising <a href="https://github.com/ckswjd99/LayerBufferCalc"><strong>novel idea</strong><a> of CNN inference optimization.</li>
-  <li>Diving into optimizing <a href="https://github.com/ckswjd99/GPT2-in-C"><strong>GPT2 model inference</strong><a> in a mobile environment with C language.</li>
+  <li>Immersed in optimizing <a href="https://github.com/ckswjd99/GPT2-in-C"><strong>GPT2 model inference</strong><a> in a mobile environment with C language.</li>
 </ul>
